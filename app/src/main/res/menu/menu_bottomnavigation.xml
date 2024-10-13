@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/personalinfor" android:title="Personal infor" android:icon="@drawable/icon_accound"/>
+    <item android:id="@+id/educationinfor" android:title="Education infor" android:icon="@drawable/icon_school"/>
+    <item android:id="@+id/otherinfor" android:title="Other infor" android:icon="@drawable/ic_other_infor"/>
+</menu>
